@@ -17,7 +17,6 @@ sparse signal recovery.
 
 **Copyright (2026)**
 
-First version of this code.
 
 If you use or modify this code, please cite the following papers
 appropriately:
